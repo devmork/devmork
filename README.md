@@ -1,4 +1,4 @@
-<h2 align="left">Hi I'm Den Enoy</h2>
+# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I am Den Enoy! ➤ 👨‍💻🌐🌊📷
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 | Tech Skills</h3>
 
 ###
 

@@ -29,7 +29,4 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/devmork/devmork/output/snake.svg" alt="Snake animation" />
-
 ###

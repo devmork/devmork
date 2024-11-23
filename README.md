@@ -4,7 +4,9 @@
 
 ###
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devmork&theme=merko&show_icons=true&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devmork&theme=merko&show_icons=true&hide_border=false&layout=compact) <br></br>
+![](https://github-readme-stats.vercel.app/api?username=devmork&theme=merko&show_icons=true&hide_border=false&count_private=true) <br></br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=devmork&theme=merko&hide_border=false)
 
 ###
 

@@ -5,7 +5,7 @@
 ###
 
 <div align="left">
-  ![devmork's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devmork&theme=merko&show_icons=true&hide_border=false&layout=compact)
+  https://github-readme-stats.vercel.app/api/top-langs/?username=devmork&theme=merko&show_icons=true&hide_border=false&layout=compact
 </div>
 
 ###

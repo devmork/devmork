@@ -38,7 +38,7 @@
 
 ###
 
-<h3 align="left"><img src="https://img.icons8.com/?size=100&id=n6bS392RVKBX&format=png&color=000000"/> | daily.dev card</h3>
+<h3> -- daily.dev card</h3>
 
 
 <a href="https://app.daily.dev/devnoy"><img src="https://api.daily.dev/devcards/v2/ZAoyJK8MM7XplFpRvLmHd.png?type=wide&r=4bg" width="652" alt="Den Enoy's Dev Card"/></a>

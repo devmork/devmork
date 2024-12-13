@@ -37,7 +37,6 @@
 </div>
 
 ###
-<h3 align="left"> <img src="https://media.daily.dev/image/upload/s--COeiQtov--/f_auto/v1704465510/squads/daily_updates"/> | daily.dev Card</h3>
 
 <a href="https://app.daily.dev/devnoy"><img src="https://api.daily.dev/devcards/v2/ZAoyJK8MM7XplFpRvLmHd.png?type=wide&r=4bg" width="652" alt="Den Enoy's Dev Card"/></a>
 

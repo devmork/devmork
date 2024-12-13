@@ -38,4 +38,6 @@
 
 ###
 
+<a href="https://app.daily.dev/devnoy"><img src="https://api.daily.dev/devcards/v2/ZAoyJK8MM7XplFpRvLmHd.png?type=default&r=4bg" width="356" alt="Den Enoy's Dev Card"/></a>
+
 

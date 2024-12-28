@@ -39,6 +39,6 @@
 <h3> -- daily.dev card</h3>
 
 
-<a href="https://app.daily.dev/devnoy"><img src="https://api.daily.dev/devcards/v2/ZAoyJK8MM7XplFpRvLmHd.png?type=wide&r=4bg" width="652" alt="Den Enoy's Dev Card"/></a>
+<a href="https://app.daily.dev/devnoy"><img src="https://api.daily.dev/devcards/v2/ZAoyJK8MM7XplFpRvLmHd.png?type=wide&r=m43" width="652" alt="Den Enoy's Dev Card"/></a>
 
 

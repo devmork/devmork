@@ -24,7 +24,5 @@
 
 <h3> 📊 Github Stats</h3>
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=devmork&theme=react&hide_border=false" alt="devmork's GitHub Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=devmork&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devmork&radius=16&theme=react&area=true&order=5" height="300" width="810" alt="activity-graph graph"  />
 </div>
